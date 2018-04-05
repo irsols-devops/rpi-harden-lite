@@ -19,10 +19,16 @@
  5. Firewall rules are updated based on best practices 
  6. Login messages/banners are enforced & updated 
 
-Quick start : 1. git clone https://github.com/irsols-devops/rpi-harden-lite.git
-	      2. cd rpi-harden-lite
-  	      3. sudo su
-     	      4. ./rpi-harden-lite.sh [NewUserName] [NewUserPasswd] [NewRootPasswd]
-              5. Hit Yes to any pop up dialogs 
- 	      6. reboot / logout and log back in with your new user/passwd
+Quick start : 
+1. git clone https://github.com/irsols-devops/rpi-harden-lite.git
+
+2. cd rpi-harden-lite
+
+3. sudo su
+
+4. ./rpi-harden-lite.sh [NewUserName] [NewUserPasswd] [NewRootPasswd]
+
+5. Hit Yes to any pop up dialogs 
+
+6. reboot / logout and log back in with your new user/passwd
 
